@@ -1,0 +1,11 @@
+{
+  "name": "process",
+  "owner": { "name": "Jaden Lu" },
+  "plugins": [
+    {
+      "name": "process",
+      "source": "./",
+      "description": "The decision, record and build process an agent follows in every project"
+    }
+  ]
+}
